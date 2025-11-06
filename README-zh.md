@@ -98,4 +98,5 @@ d.set_status(color_code, 24)
 
 ## 其他
 
-更多更新、实验性的研究方案可以参考我的个人博客 [Swarm Sync 逆向笔记 - MetaMiku's Blog](https://metamiku.top/2025/11/01/Swarm-Sync-%E9%80%86%E5%90%91%E7%AC%94%E8%AE%B0/)
+- 更多更新、实验性的研究方案可以参考我的个人博客 [Swarm Sync 逆向笔记 - MetaMiku's Blog](https://metamiku.top/2025/11/01/Swarm-Sync-%E9%80%86%E5%90%91%E7%AC%94%E8%AE%B0/)
+- 我们的 DIY 复刻项目: [MetaMikuAI/NeuroLamp](https://github.com/MetaMikuAI/NeuroLamp)

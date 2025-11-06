@@ -98,5 +98,5 @@ d.set_status(color_code, 24)
 
 ## More
 
-For more updates and experimental research solutions, please refer to my personal blog [Swarm Sync 逆向笔记 - MetaMiku's Blog](https://metamiku.top/2025/11/01/Swarm-Sync-%E9%80%86%E5%90%91%E7%AC%94%E8%AE%B0/) 
-
+- For more updates and experimental research solutions, please refer to my personal blog [Swarm Sync 逆向笔记 - MetaMiku's Blog](https://metamiku.top/2025/11/01/Swarm-Sync-%E9%80%86%E5%90%91%E7%AC%94%E8%AE%B0/) 
+- Our DIY replica project: [MetaMikuAI/NeuroLamp](https://github.com/MetaMikuAI/NeuroLamp)
