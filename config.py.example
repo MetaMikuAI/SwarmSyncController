@@ -1,0 +1,6 @@
+config = {
+    'dev_id': '0123456789abcdef012345',
+    'address': '192.168.xx.yyy',      # Or set to 'Auto' to auto-discover IP address
+    'local_key': '****************',
+    'version': 3.5
+}
