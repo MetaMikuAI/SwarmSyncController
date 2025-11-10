@@ -92,11 +92,18 @@ color_code = '00b403e803e8'
 d.set_status(color_code, 24)
 ```
 
+## 文件说明
+
+`gui.py` - 一个简单的 GUI 界面，允许用户通过图形界面控制熔岩灯。
+`python_python.py` - 一个不使用 `tinytuya` 库的纯 Python 实现，直接通过 socket 与设备通信。（可以用普通 socket 替代 `pwntools`）
+`KotlinExample.kt` - 一个使用 Kotlin 语言编写的示例
+
+
 ## 演示视频
 
 [【NeuroLamp】熔岩灯本地控制脚本](https://www.bilibili.com/video/BV1qC1tBdEo7/)
 
 ## 其他
 
-- 更多更新、实验性的研究方案可以参考我的个人博客 [Swarm Sync 逆向笔记 - MetaMiku's Blog](https://metamiku.top/2025/11/01/Swarm-Sync-%E9%80%86%E5%90%91%E7%AC%94%E8%AE%B0/)
+- 更多更新、实验性的研究方案可以参考我的个人博客 [Swarm Sync 逆向笔记 - MetaMiku&#39;s Blog](https://metamiku.top/2025/11/01/Swarm-Sync-%E9%80%86%E5%90%91%E7%AC%94%E8%AE%B0/)
 - 我们的 DIY 复刻项目: [MetaMikuAI/NeuroLamp](https://github.com/MetaMikuAI/NeuroLamp)

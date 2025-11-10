@@ -92,6 +92,12 @@ color_code = '00b403e803e8'
 d.set_status(color_code, 24)
 ```
 
+## File Descriptions
+
+`gui.py` - A simple GUI interface that allows users to control the lava lamp through a graphical interface.
+`python_python.py` - A pure Python implementation that does not use the `tinytuya` library, directly communicating with the device via socket. (You can replace `pwntools` with ordinary sockets)
+`KotlinExample.kt` - An example written in Kotlin.
+
 ## Demo Video
 
 [【NeuroLamp】熔岩灯本地控制脚本](https://www.bilibili.com/video/BV1qC1tBdEo7/)
